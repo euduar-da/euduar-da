@@ -4,11 +4,11 @@
 #### Sobre mim
 ___
 
-<p>Técnico em Redes de Computadores pela EEEP Professora Maria Célia Pinheiro Falcão.</p>
+- Técnico em Redes de Computadores pela EEEP Professora Maria Célia Pinheiro Falcão.
 
-<p>Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi-Árido (UFERSA).</p>
+- Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi-Árido (UFERSA).
 
-<p>Junior Developer sempre buscando aprimorar-se.</p>
+- Junior Developer sempre buscando aprimorar-se.
 </br>
 
 ### Conecte-se comigo
