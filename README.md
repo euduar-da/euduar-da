@@ -1,4 +1,4 @@
-<h1 align="center"> Olá 👋, me chamo Eduarda Souza!  </h1>
+<h3 align="center"> Olá 👋, me chamo Eduarda Souza!  </h3>
 
 ### Conecte-se comigo
 ___
