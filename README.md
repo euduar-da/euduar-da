@@ -11,6 +11,7 @@ ___
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />  
 </a>
 </div>
+</br>
 
 ### Github stats:
 ___
@@ -18,7 +19,7 @@ ___
 ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=euduar-da&show_icons=true&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euduar-da&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</br>
 
 ### Tecnologias que possuo interesse:
 ___
@@ -33,6 +34,7 @@ ___
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
+</br>
 
 #### Sobre mim
 ___
