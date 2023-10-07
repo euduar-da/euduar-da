@@ -1,6 +1,16 @@
 <h3 align="center"> Olá 👋, me chamo Eduarda Souza!  </h3>
 </br>
 
+#### Sobre mim
+___
+
+<p>Técnico em Redes de Computadores pela EEEP Professora Maria Célia Pinheiro Falcão.</p>
+
+<p>Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi-Árido (UFERSA).</p>
+
+<p>Junior Developer sempre buscando aprimorar-se.</p>
+</br>
+
 ### Conecte-se comigo
 ___
 <div align="center">
@@ -36,11 +46,6 @@ ___
 </div>
 </br>
 
-#### Sobre mim
-___
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Técnico em Redes de Computadores pela EEEP Professora Maria Célia Pinheiro Falcão.
-
-Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi-Árido (UFERSA).
-
-Junior Developer sempre buscando aprimorar-se.
