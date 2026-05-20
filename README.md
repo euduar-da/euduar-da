@@ -6,9 +6,12 @@ ___
 
 - Técnico em Redes de Computadores pela EEEP Professora Maria Célia Pinheiro Falcão.
 
-- Graduando em Tecnologia da Informação, pela Universidade Federal Rural do Semi-Árido (UFERSA).
+- Graduanda em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA).
 
-- Junior Developer sempre buscando aprimorar-se.
+- Estagiária na área de Qualidade de Software, atuando como QA.
+
+- Tenho interesse em desenvolvimento, testes de software, automação de testes e melhoria contínua da qualidade de sistemas.
+
 </br>
 
 ### Conecte-se comigo
