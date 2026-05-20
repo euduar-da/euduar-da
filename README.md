@@ -14,6 +14,26 @@ ___
 
 </br>
 
+### Linguagens e tecnologias:
+___
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+<br>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![QA](https://img.shields.io/badge/QA-Quality%20Assurance-blueviolet?style=for-the-badge)
+
+</div>
+
+</br>
+
+
 ### Conecte-se comigo
 ___
 <div align="center">
@@ -25,30 +45,4 @@ ___
 </a>
 </div>
 </br>
-
-### Github stats:
-___
-
-![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=euduar-da&show_icons=true&theme=dracula)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euduar-da&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</br>
-
-### Tecnologias que possuo interesse:
-___
-
-<div align="center">
-
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br>
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-</div>
-</br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
